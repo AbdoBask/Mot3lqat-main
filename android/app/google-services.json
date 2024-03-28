@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402442764324",
+    "project_id": "mot3lqat-2",
+    "storage_bucket": "mot3lqat-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402442764324:android:46c859c009bf9cf8c898b1",
+        "android_client_info": {
+          "package_name": "com.example.login_pages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZOCtLGIRjpLk63kOoPbpvQZMcETBSIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
